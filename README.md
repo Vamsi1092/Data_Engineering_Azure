@@ -54,8 +54,6 @@ Azure Synapse Analytics is used to query and analyze the structured data stored 
 ## 7. Dashboard and Visualization  
 **Components:**  
 - Power BI  
-- Looker Studio  
-- Tableau  
 
 **Description:**  
 These tools are used to create interactive dashboards and visualizations for business users.  
