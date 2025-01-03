@@ -60,6 +60,12 @@ These tools are used to create interactive dashboards and visualizations for bus
 
 ---
 
+## 8. Results
+-1
+![Sales Dashboard](./assets/sdb1.png)
+![Supplier Dashboard](./assets/sdb2.png)
+
+
 ## Summary  
 This architecture efficiently manages the end-to-end data pipeline for supply chain analytics:  
 
