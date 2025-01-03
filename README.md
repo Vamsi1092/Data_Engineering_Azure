@@ -61,9 +61,23 @@ These tools are used to create interactive dashboards and visualizations for bus
 ---
 
 ## 8. Results
--1
-![Sales Dashboard](./assets/sdb1.png)
-![Supplier Dashboard](./assets/sdb2.png)
+
+![Sales Dashboard](./assets/SDB1.png)
+This dashboard provides an overview of:
+- Total revenue, profit, and stock levels.
+- Sales performance by customer demographics and product type.
+- Profit distribution by product type.
+- SKU-wise revenue and profit details.
+- Product sales across various locations.
+- Product availability versus sales volume.
+
+  
+![Supplier Dashboard](./assets/SDB2.png)
+This dashboard highlights:
+- Manufacturing efficiency and costs by product type.
+- Defect rates across different routes.
+- Shipping costs segmented by carriers and transportation modes.
+- Correlation between total shipping costs, product type, and number of products sold.
 
 ## Summary  
 This architecture efficiently manages the end-to-end data pipeline for supply chain analytics:  
