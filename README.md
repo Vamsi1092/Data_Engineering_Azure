@@ -62,8 +62,8 @@ These tools are used to create interactive dashboards and visualizations for bus
 
 ## 8. Results
 -1
-![Sales Dashboard](./assets/sdb1.png)
-![Supplier Dashboard](./assets/sdb2.png)
+![Sales Dashboard](C:\Users\venur\OneDrive\Desktop\sdb1.png)
+![Supplier Dashboard](C:\Users\venur\OneDrive\Desktop\sdb2.png)
 
 
 ## Summary  
