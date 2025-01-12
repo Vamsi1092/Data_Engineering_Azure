@@ -1,4 +1,4 @@
-# Supply Chain Data Analytics Architecture
+# Azure Supply Chain Pipeline
 
 This project uses a modern data pipeline designed for supply chain data analytics using Azure cloud services and visualization tools. The architecture is modular, scalable, and supports data ingestion, transformation, storage, analytics, and dashboarding.
 
